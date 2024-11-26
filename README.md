@@ -92,4 +92,5 @@ CREATE TABLE embeddings (
 )
 ```
 # Demo Output
-<img src="/demo1.jpg"/>
+<img src="/demo1.png"/>
+<img src="/demo2.png"/>
