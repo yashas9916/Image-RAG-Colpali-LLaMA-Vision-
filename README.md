@@ -91,3 +91,5 @@ CREATE TABLE embeddings (
     embedding BLOB
 )
 ```
+# Demo Output
+<img src="/demo1.jpg"/>
